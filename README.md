@@ -1,4 +1,5 @@
-
+# Assignment Submitted by Dipto Saha 
+# Roll: 2007119
 # CounterApp
 
 This project is a simple counter application created as part of the Mobile Computing Laboratory assignment. Developed in Swift using SwiftUI, this app allows users to increment a counter with each tap and reset it to zero with a dedicated button.
